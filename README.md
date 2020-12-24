@@ -1,1 +1,1 @@
-# ip.my.to
+# https://ip.my.to
